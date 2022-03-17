@@ -1,9 +1,0 @@
-#cabecera{background-color:#e63946;height:50px;border:none;margin:0px 0px 10px 0px;}
-h1{color:white;margin:auto;padding:auto;text-align:center;}
-img{width:250px;height:250px;}
-a{text-decoration:none;}
-a:hover{color:#fcf6bd;}
-#nav{background-color:#a8dadc;width:100%;height:40px;margin:0px 0px 10px 0px;padding:20px 0px 0px 20px;}
-#contenido{border:1px solid #457b9d;border-radius:5px;margin: auto;width:90%;padding:20px 0px 20px 20px;}
-#piedepágina{color:#fdf0d5;background-color:#1d3557;height:40px ;margin: 15px 0px 0px 0px;padding:15px 0px 15px 15px;}
-#contenido a:hover{color:#c1121f}
